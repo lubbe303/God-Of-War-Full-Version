@@ -285,4 +285,4 @@ This repository serves as the official landing page for God of War. The software
 **Get the most recent version of God of War today!**
 
 ---
-**Last updated:** 2026-10-26 20:51:09 UTC
+**Last updated:** 2026-10-27 00:11:41 UTC
